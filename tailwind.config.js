@@ -20,6 +20,7 @@ module.exports = {
       'purple': '#3f3cbb',
       'midnight': '#121063',
       'metal': '#565584',
+      'blue': '#2563eb',
       'tahiti': '#3ab7bf',
       'silver': '#ecebff',
       'bubble-gum': '#ff77e9',
